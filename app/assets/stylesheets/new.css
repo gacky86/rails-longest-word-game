@@ -1,0 +1,19 @@
+.letter {
+  width: 100px;
+  height: 100px;
+  margin: 8px;
+  font-size: 80px;
+  text-align: center;
+  line-height: 1.2em;
+  background-color: #3498DB;
+  color: white;
+}
+
+.letter-container {
+  display: flex;
+}
+
+.answer-form {
+  width: 60%;
+  padding: 16px;
+}
